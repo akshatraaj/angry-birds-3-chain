@@ -1,2 +1,2 @@
-# angry-birds-3-chain
-angry birds game with chain
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
